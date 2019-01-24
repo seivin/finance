@@ -1,8 +1,6 @@
 import numpy as np
 import math
 
-from statistics import mean
-
 # Valuation of a European call option by Monte Carlo simulation
 # Considering a Black-Scholes-Merton setup in which the option's underlying risk factor follows a geometric Brownian motion
 
